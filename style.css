@@ -1,11 +1,33 @@
 h1{
     text-align: center;
     color: rgb(71, 18, 71);
+    background-color: white;
 }
 p{
     text-align: center;
     color: rgb(70, 2, 14);
+    text-decoration:underline;
+    padding: 50px;
 }
 body{
     background-color: rgba(170, 76, 170, 0.74);
+    align-items: center;
+}
+#display {
+    text-align: center;
+    margin: 50px 50px;
+    padding: 50px 50px;
+    font-size: 100px;
+}
+.start{
+    padding: 4mm;
+    border: 2mm;
+    border-radius: 2mm;
+}
+.stop{
+    padding: 10mm;
+    border: 2mm;
+    border-radius: 2mm;
+    margin:100px;
+
 }
