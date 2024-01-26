@@ -1,9 +1,9 @@
 # PRODIGY-WD-02
-# Stopwatch Website - Prodigy Infotech Internship Task 3
+# Stopwatch Website - Prodigy Infotech Internship Task 2
 
 ## Overview
 
-This repository contains the source code for a Stopwatch website, developed as part of Task 3 for the Prodigy Infotech Web Development Internship. The Stopwatch allows users to measure elapsed time with precision and simplicity.
+This repository contains the source code for a Stopwatch website, developed as part of Task 2 for the Prodigy Infotech Web Development Internship. The Stopwatch allows users to measure elapsed time with precision and simplicity.
 
 ## Features
 
